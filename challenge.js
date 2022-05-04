@@ -1,1 +1,3 @@
-console.log('Oi, eu sou o Pablo, me chamam de ursinho!! <<< Agora vou dar PUSH');
+const sum = (n1, n2) => n1 + n2;
+
+console.log(sum(8, 9));
